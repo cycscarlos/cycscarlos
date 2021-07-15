@@ -46,16 +46,11 @@
 <br>
 <br>
 
-
-![Carlos Colmenares A.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=cycscarlos&show_icons=true&theme=vue-dark&hide=stars,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cycscarlos&&langs_count=8&theme=vue-dark)](https://github.com/cycscarlos/github-readme-stats)
 
 <br>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cycscarlos&layout=compact&theme=dark)](https://github.com/cycscarlos/github-readme-stats)
-
-<br> -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cycscarlos&&langs_count=8&theme=vue-dark)](https://github.com/cycscarlos/github-readme-stats)
+![Carlos Colmenares A.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=cycscarlos&show_icons=true&theme=vue-dark&hide=stars,prs)
 
 <br>
 
