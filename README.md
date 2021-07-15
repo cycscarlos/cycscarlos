@@ -1,4 +1,4 @@
-## <div style="text-align: center"><h1 style="color: #ff4c00">Hi! I'm Carlos Colmenares A.</div>
+## <div style="text-align: center; color: #ff4c00"><h1>Hi! I'm Carlos Colmenares A.</div>
 
 <br>
 
@@ -37,8 +37,8 @@
 - 🔭 I’m currently working on [CYCS & Co. website](https://cycs.netlify.app "CYCS Ingeniería e Instalaciones")
 - 🌱 I’m currently learning Data Science & Machine Learning
 - 👯 I’m looking to collaborate on new side projects and would like on Google advocator developers program too
-- 💬 Ask me about web software development (React, VueJS, Javascript, HTML and/or CSS)
-- 📫 How to reach me: [Carlos Colmenares A.'s Profile website](https://carlos-colmenares-a.netlify.app "https://carlos-colmenares-a.netlify.app")
+- 💬 Ask me about web software development (PHP, Python, Javascript, React, VueJS, HTML and/or CSS)
+- 📫 How to reach me: [Carlos Colmenares A. Profile website](https://carlos-colmenares-a.netlify.app "https://carlos-colmenares-a.netlify.app")
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm baseball and Basketball fan, and rock & roll music lover
 
@@ -51,18 +51,16 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cycscarlos&layout=compact&theme=dark)](https://github.com/cycscarlos/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cycscarlos&layout=compact&theme=dark)](https://github.com/cycscarlos/github-readme-stats)
 
-<br>
+<br> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cycscarlos&&langs_count=8&theme=vue-dark)](https://github.com/cycscarlos/github-readme-stats)
 
-<br>
 <br>
 
 ## My Colaborations
 
 [![Carlos Colmenares A.'s github activity graph](https://activity-graph.herokuapp.com/graph?username=cycscarlos&theme=react-dark)](https://github.com/cycscarlos/github-readme-activity-graph)
 
-<br>
 <br>
