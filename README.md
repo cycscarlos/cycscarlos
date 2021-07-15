@@ -5,7 +5,6 @@
 ### <div style="text-align:center"><h3>...also knows as<span style="color:#ff4c00"> *zCoder!* </span>at developers social media</div>
 
 <br>
-<br>
 
 ![zCoder Banner!](assets/img/banner1a.png)
 
