@@ -1,20 +1,15 @@
-### <div style="text-align: left"><h1 style="color: #ffffff">Hello World!</div>👋
+## <div style="text-align: center"><h1 style="color: orange">Hi! I'm Carlos Colmenares A.</div>
 
 <br>
 
-## <div style="text-align: center"><h1 style="color: #ff4c00">Welcome to Carlos Colmenares A. Profile </div>
-
-<br>
-
-### <div style="text-align: center"><h3><span style="color:#fff">zCoder! </span>in the developers social media</div>
+### <div style="text-align: center"><h3>...also knows as <span style="color: white">zCoder! </span>at developers social media</div>
 
 <br>
 <br>
 
-![zCoder Banner!](assets/img/banner1.jpg)
+![zCoder Banner!](assets/img/banner1.png)
 
 <br>
-
 
 ---
 <br>
@@ -55,6 +50,6 @@
 <br>
 <br>
 
-[![Carlos Colmenares A's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycscarlos&?theme=calm)](https://github.com/cycscarlos/github-readme-stats)
+<!-- [![Carlos Colmenares A's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycscarlos&?theme=calm)](https://github.com/cycscarlos/github-readme-stats)
 
-![Carlos Colmenares A's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycscarlos&count_private=true&show_icons=true&?theme=vue-dark)
+![Carlos Colmenares A's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycscarlos&count_private=true&show_icons=true&?theme=vue-dark) -->
