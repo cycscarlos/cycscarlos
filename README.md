@@ -1,8 +1,8 @@
-## <div style="text-align: center; color: #ff4c00"><h1>Hi! I'm Carlos Colmenares A.</div>
+## <div style="text-align:center; color:#ff4c00"><h1><span style="color:#ffffff">Hi!</span> I'm Carlos Colmenares A.</div>
 
 <br>
 
-### <div style="text-align: center"><h3>...also knows as <span style="color: #ff4c00">zCoder! </span>at developers social media</div>
+### <div style="text-align:center"><h3>...also knows as<span style="color:#ff4c00"> *zCoder!* </span>at developers social media</div>
 
 <br>
 <br>
@@ -14,7 +14,7 @@
 ---
 
 <br>
-<p style="text-align: justify; font-size:10px">
+<p style="text-align:justify; font-size:10px">
             Electronic engineer; worked for more than 25 years as a system
             programmer for IBM's Mainframe technologies (s/370, s/390, z/Series).
             During that stage, I provided technical consulting services in
