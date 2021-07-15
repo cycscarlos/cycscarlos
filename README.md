@@ -1,17 +1,18 @@
-## <div style="text-align: center"><h1 style="color: orange">Hi! I'm Carlos Colmenares A.</div>
+## <div style="text-align: center"><h1 style="color: #ff4c00">Hi! I'm Carlos Colmenares A.</div>
 
 <br>
 
-### <div style="text-align: center"><h3>...also knows as <span style="color: white">zCoder! </span>at developers social media</div>
+### <div style="text-align: center"><h3>...also knows as <span style="color: #ff4c00">zCoder! </span>at developers social media</div>
 
 <br>
 <br>
 
-![zCoder Banner!](assets/img/banner1.png)
+![zCoder Banner!](assets/img/banner1a.png)
 
 <br>
 
 ---
+
 <br>
 <p style="text-align: justify; font-size:10px">
             Electronic engineer; worked for more than 25 years as a system
@@ -33,23 +34,35 @@
 
 ---
 
-- 🔭 I’m currently working on [CYCS & Co.](https://cycs.netlify.app "CYCS Ingeniería e Instalaciones's website")
+- 🔭 I’m currently working on [CYCS & Co. website](https://cycs.netlify.app "CYCS Ingeniería e Instalaciones")
 - 🌱 I’m currently learning Data Science & Machine Learning
 - 👯 I’m looking to collaborate on new side projects and would like on Google advocator developers program too
 - 💬 Ask me about web software development (React, VueJS, Javascript, HTML and/or CSS)
-- 📫 How to reach me: [Carlos Colmenares A.](https://carlos-colmenares-a.netlify.app "Carlos Colmenares A.'s profile")
+- 📫 How to reach me: [Carlos Colmenares A.'s Profile website](https://carlos-colmenares-a.netlify.app "https://carlos-colmenares-a.netlify.app")
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm baseball and Basketball fan, and rock & roll music lover
 
+---
 <br>
 <br>
+
+
+![Carlos Colmenares A.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=cycscarlos&show_icons=true&theme=vue-dark&hide=stars,prs)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cycscarlos&layout=compact&theme=dark)](https://github.com/cycscarlos/github-readme-stats)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cycscarlos&&langs_count=8&theme=vue-dark)](https://github.com/cycscarlos/github-readme-stats)
+
+<br>
+<br>
+
 ## My Colaborations
 
 [![Carlos Colmenares A.'s github activity graph](https://activity-graph.herokuapp.com/graph?username=cycscarlos&theme=react-dark)](https://github.com/cycscarlos/github-readme-activity-graph)
 
 <br>
 <br>
-
-<!-- [![Carlos Colmenares A's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycscarlos&?theme=calm)](https://github.com/cycscarlos/github-readme-stats)
-
-![Carlos Colmenares A's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycscarlos&count_private=true&show_icons=true&?theme=vue-dark) -->
