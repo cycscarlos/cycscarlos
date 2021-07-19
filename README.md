@@ -11,20 +11,20 @@
 <br>
 
 <p style="text-align:justify; font-size:10px">
-            Electronic engineer; worked for more than 25 years as a system
-            programmer for IBM's Mainframe technologies (s/370, s/390, z/Series).
+            Electronic engineer; I worked for more than 25 years as a system
+            programmer with IBM's Mainframe technologies (i.e. s/370, s/390, z/Series).
             During that stage, I provided technical consulting services in
             numerous engineering projects for more than 25 biggest companies;
-            much of them, were fourteen banks, both nationals as international.
-            During the last 20 years, and in parallel, I developed a successful
+            much of them, included more than ten banks, both nationals´s as international´s
+            scene. During the last 20 years, and in parallel, I developed a successful
             career as a project engineer; designing and implementing microwave
             telecommunication networks, as well as industrial electronic
             security systems in more than 30 corporate companies; some of the
             likes of PDVSA, Cargill de Venezuela, Metro de Caracas, CANTV,
             Movistar, among many others. Recently (since the beginning of 2020),
-            and as a professional compliment, I have started to learn and work
+            and as a professional compliment, I have started to work
             in a new and dynamic career as a "full-stack" web software
-            developer.
+            developer...at the moment, in progress!
 </p>
 
 <br>
@@ -40,7 +40,7 @@
 - 💬 Ask me about web software development (Python, JavaScript, React, VueJS, HTML and/or CSS)
 - 📫 How to reach me: [Carlos Colmenares A. Profile](https://carlos-colmenares-a.netlify.app "https://carlos-colmenares-a.netlify.app")
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm baseball and basketball fan, and rock & roll music lover too!
+- ⚡ Fun fact: I'm baseball and Basketball fan, and rock & roll music lover too!
 
 <br>
 
