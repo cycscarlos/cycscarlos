@@ -1,18 +1,15 @@
-## <div style="text-align:center; color:#ff4c00"><h1><span style="color:#ffffff">Hi!</span> I'm Carlos Colmenares A.</div>
-
-<br>
-
-### <div style="text-align:center"><h3>...also knows as<span style="color:#ff4c00"> *zCoder!* </span>at developers social media</div>
-
-<br>
-
-![zCoder Banner!](assets/img/banner1a.png)
+![zCoder Banner!](assets/img/miBanner.png)
 
 <br>
 
 ---
 
 <br>
+
+### <div style="text-align:center"><h3>...also knows as<span style="color:#ff4c00"> _zCoder!_ </span>at developers social media</div>
+
+<br>
+
 <p style="text-align:justify; font-size:10px">
             Electronic engineer; worked for more than 25 years as a system
             programmer for IBM's Mainframe technologies (s/370, s/390, z/Series).
@@ -29,19 +26,26 @@
             in a new and dynamic career as a "full-stack" web software
             developer.
 </p>
+
 <br>
 
 ---
 
-- 🔭 I’m currently working on [CYCS & Co. website](https://cycs.netlify.app "CYCS Ingeniería e Instalaciones")
-- 🌱 I’m currently learning Data Science & Machine Learning
-- 👯 I’m looking to collaborate on new side projects and would like on Google advocator developers program too
-- 💬 Ask me about web software development (PHP, Python, Javascript, React, VueJS, HTML and/or CSS)
-- 📫 How to reach me: [Carlos Colmenares A. Profile website](https://carlos-colmenares-a.netlify.app "https://carlos-colmenares-a.netlify.app")
+<br>
+
+- 🔭 I’m currently working on [CYCS & Co.](https://cycs.netlify.app "CYCS Ingeniería e Instalaciones") as CTO (co-founder)
+- 🌱 I’m currently learning IA & Machine Learning
+- 👯 I’m collaborate on new side projects
+- 👯 And, also I'd like to collaborate on Google advocator developers program
+- 💬 Ask me about web software development (Python, JavaScript, React, VueJS, HTML and/or CSS)
+- 📫 How to reach me: [Carlos Colmenares A. Profile](https://carlos-colmenares-a.netlify.app "https://carlos-colmenares-a.netlify.app")
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm baseball and Basketball fan, and rock & roll music lover
+- ⚡ Fun fact: I'm baseball and basketball fan, and rock & roll music lover too!
+
+<br>
 
 ---
+
 <br>
 <br>
 
