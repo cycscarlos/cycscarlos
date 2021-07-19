@@ -12,10 +12,10 @@
 
 <p style="text-align:justify; font-size:10px">
             Electronic engineer; I worked for more than 25 years as a system
-            programmer with IBM's Mainframe technologies (i.e. s/370, s/390, z/Series).
+            programmer with IBM Mainframe technologies (i.e. s/370, s/390, z/Series).
             During that stage, I provided technical consulting services in
             numerous engineering projects for more than 25 biggest companies;
-            much of them, included more than ten banks, both nationals´s as international´s
+            much of them, included more than ten banks, both nationals as international
             scene. During the last 20 years, and in parallel, I developed a successful
             career as a project engineer; designing and implementing microwave
             telecommunication networks, as well as industrial electronic
@@ -24,7 +24,7 @@
             Movistar, among many others. Recently (since the beginning of 2020),
             and as a professional compliment, I have started to work
             in a new and dynamic career as a "full-stack" web software
-            developer...at the moment, in progress!
+            developer, by the moment, in progress!
 </p>
 
 <br>
