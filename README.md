@@ -24,7 +24,7 @@
             Movistar, among many others. Recently (since the beginning of 2020),
             and as a professional compliment, I have started to work
             in a new and dynamic career as a "full-stack" web software
-            developer, by the moment, in progress!
+            developer; at the moment, in progress!
 </p>
 
 <br>
