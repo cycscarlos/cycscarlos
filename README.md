@@ -11,20 +11,24 @@
 <br>
 
 <p style="text-align:justify; font-size:10px">
-            Electronic engineer; I worked for more than 25 years as a system
-            programmer with IBM Mainframe technologies (i.e. s/370, s/390, z/Series).
-            During that stage, I provided technical consulting services in
-            numerous engineering projects for more than 25 biggest companies;
-            much of them, included more than ten banks, both nationals as international
-            scene. During the last 20 years, and in parallel, I developed a successful
-            career as a project engineer; designing and implementing microwave
-            telecommunication networks, as well as industrial electronic
-            security systems in more than 30 corporate companies; some of the
-            likes of PDVSA, Cargill de Venezuela, Metro de Caracas, CANTV,
-            Movistar, among many others. Recently (since the beginning of 2020),
-            and as a professional compliment, I have started to work
-            in a new and dynamic career as a "full-stack" web software
-            developer; at the moment, in progress!
+            Electronic engineer; I have more than 30 years working on as a system
+            programmer or Software Engineer with IBM Mainframe technologies (s/370,
+            s/390, z/Series). During that stage, I have been provided technical
+            consulting services to +25 companies, which included 12 banks, both
+            national and international, in the implementation of many high-level
+            technical IT projects. In parallel and during the last 15 years, I am
+            developed a successful career as a project engineer, designing and
+            implementing microwave networks and industrial electronic security
+            systems in more than 30 companies; some of the likes of PDVSA, Cargill,
+            CANTV, Movistar, Metro de Caracas, among many others. I still render
+            top-level consulting and project field implementation services at the
+            electronic security systems and wireless networks technologies. But,
+            recently (since early 2020), I have been training and working on
+            a new and exciting career as a web software developer; design, and
+            developing websites, backend systems, and small and specific apps.
+            In that way, this awesome roundtrip also brings me up to gives
+            advocate technical tips to the spanish developer communities via
+            social media networks, and I am enjoying it!
 </p>
 
 <br>
