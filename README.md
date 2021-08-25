@@ -19,16 +19,16 @@
             technical IT projects. In parallel and during the last 15 years, I am
             developed a successful career as a project engineer, designing and
             implementing microwave networks and industrial electronic security
-            systems in more than 30 companies; some of the likes of PDVSA, Cargill,
-            CANTV, Movistar, Metro de Caracas, among many others. I still render
-            top-level consulting and project field implementation services at the
-            electronic security systems and wireless networks technologies. But,
-            recently (since early 2020), I have been training and working on
-            a new and exciting career as a web software developer; design, and
+            systems in more than 30 huge companies; some of the likes of PDVSA, 
+            Cargill, CANTV, Movistar, Metro de Caracas, among many others. I still
+            render top-level consulting and project field implementation services 
+            at the electronic security systems and wireless networks technologies.
+            Although, recently (since early 2020), I have been training and working
+            on a new and exciting career as a web software developer; design, and
             developing websites, backend systems, and small and specific apps.
             In that way, this awesome roundtrip also brings me up to gives
             advocate technical tips to the spanish developer communities via
-            social media networks, and I am enjoying it!
+            social media networks, and I am enjoying it a lot!
 </p>
 
 <br>
