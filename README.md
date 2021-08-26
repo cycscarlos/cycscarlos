@@ -11,12 +11,12 @@
 <br>
 
 <p style="text-align:justify; font-size:10px">
-            Electronic engineer; I have more than 30 years working on as a system
+            Electronic engineer; I have more than 30 years working as a system
             programmer or Software Engineer with IBM Mainframe technologies (s/370,
             s/390, z/Series). During that stage, I have been provided technical
             consulting services to +25 companies, which included 12 banks, both
             national and international, in the implementation of many high-level
-            technical IT projects. In parallel and during the last 15 years, I am
+            technical IT projects. In parallel and during the last 15 years, I have 
             developed a successful career as a project engineer, designing and
             implementing microwave networks and industrial electronic security
             systems in more than 30 huge companies; some of the likes of PDVSA, 
@@ -27,7 +27,7 @@
             on a new and exciting career as a web software developer; design, and
             developing websites, backend systems, and small and specific apps.
             In that way, this awesome roundtrip also brings me up to gives
-            advocate technical tips to the spanish developer communities via
+            advocate technical tips to the Spanish developer communities via
             social media networks, and I am enjoying it a lot!
 </p>
 
