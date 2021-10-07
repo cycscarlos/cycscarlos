@@ -12,7 +12,7 @@
 
 <p style="text-align:justify; font-size:10px">
           Computer Science and telecommunications professional. Electronic Engineer, 1981. I have worked for more than 30 years as a system programmer (or software engineer) on IBM Mainframe systems (s/370, s/390, z/Series). During that stage, I have provided technical consulting services for the development and implementation of complex technical projects, in the system programming and telecommunications areas, for more than 25 companies, including 12 banks, both nationally and internationally. In parallel, and during the last 20 years, I have developed a successful career as a project engineer; designing and implementing electronic security systems and microwave networks in the telecommunication area, with high level and industrial quality, in more than 30 corporate (and huge) companies; some of them of the stature of PDVSA, Cargill de Venezuela, Metro de Caracas, CANTV, Movistar, among many others.  Since
-          early 2020, he has been training and working on a new and exciting career as a web software developer; designing, and developing websites, backend systems, and specific web apps for smartphone devices.
+          early 2020, I have been training and working on a new and exciting career as a web software developer; designing, and developing websites, backend systems, and specific web apps for smartphone devices.
 </p>
 
 <br>
