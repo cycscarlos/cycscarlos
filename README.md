@@ -11,8 +11,19 @@
 <br>
 
 <p style="text-align:justify; font-size:10px">
-          Computer Science and telecommunications professional. Electronic Engineer, 1981. I have worked for more than 30 years as a system programmer (or software engineer) on IBM Mainframe systems (s/370, s/390, z/Series). During that stage, I have provided technical consulting services for the development and implementation of complex technical projects, in the system programming and telecommunications areas, for more than 25 companies, including 12 banks, both nationally and internationally. In parallel, and during the last 20 years, I have developed a successful career as a project engineer; designing and implementing electronic security systems and microwave networks in the telecommunication area, with high level and industrial quality, in more than 30 corporate (and huge) companies; some of them of the stature of PDVSA, Cargill de Venezuela, Metro de Caracas, CANTV, Movistar, among many others.  Since
-          early 2020, I have been training and working on a new and exciting career as a web software developer; designing, and developing websites, backend systems, and specific web apps for smartphone devices.
+          Electronic Engineer, 1981. I have worked for more than 20 years as an IBM Mainframe system
+            programmer <span>(or Software Engineer)</span>, for 20+ years. During that stage, I was
+            providing technical consulting services for more than 25+ companies, in the high-level 
+            technical IT projects implementations. Many of them included 12 banks, both nationally
+            and internationally, among many others. From 2000-year, and during the last 22 years,
+            I have developed a successful career as a project engineer; designing and implementing
+            electronic security systems and microwave networks in the telecommunication area, with
+            high level and industrial quality, in more than 30 huge companies; some of them of the
+            like of PDVSA, Cargill de Venezuela, Metro de Caracas, CANTV, Movistar, among many others.
+            I´m also a web developer enthusiastic, and in recent years, I have been and permanently in
+            deep training in these dynamic and exciting technologies. I have acquired strong skills in
+            HTML, CSS, Javascript, React, Python, Django, Figma, Git, and a lot of satellite technologies
+            of the web ecosystem.
 </p>
 
 <br>
