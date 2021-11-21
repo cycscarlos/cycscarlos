@@ -11,19 +11,28 @@
 <br>
 
 <p style="text-align:justify; font-size:10px">
-          Electronic Engineer, 1981. I have worked for more than 20 years as an IBM Mainframe system
-            programmer <span>(or Software Engineer)</span>, for 20+ years. During that stage, I was
-            providing technical consulting services for more than 25+ companies, in the high-level 
-            technical IT projects implementations. Many of them included 12 banks, both nationally
-            and internationally, among many others. From 2000-year, and during the last 22 years,
-            I have developed a successful career as a project engineer; designing and implementing
-            electronic security systems and microwave networks in the telecommunication area, with
-            high level and industrial quality, in more than 30 huge companies; some of them of the
-            like of PDVSA, Cargill de Venezuela, Metro de Caracas, CANTV, Movistar, among many others.
-            I´m also a web developer enthusiastic, and in recent years, I have been and permanently in
-            deep training in these dynamic and exciting technologies. I have acquired strong skills in
-            HTML, CSS, Javascript, React, Python, Django, Figma, Git, and a lot of satellite technologies
-            of the web ecosystem.
+            Electronic Engineer, 1981. I worked for
+            more than 20 years as a software engineer in IBM Mainframe
+            technologies. During that period, among other functions, I was
+            Director of System Software of the Venezuelan subsidiary of Computer
+            Associates, Inc, an American corporation, based in the USA,
+            specialized in software development. I also provided consulting
+            services and technical support to more than 25 companies, including
+            12 banks, in the implementation of complex technical projects in the
+            areas of system programming and telecommunications. As part of my
+            constant evolution process, and during the last 22 years, I
+            developed a successful career as a project engineer, in the areas of
+            electronic security systems and telecommunications, implementing
+            numerous projects in more than 30 corporate companies; some of the
+            likes of PDVSA, Cargill de Venezuela, Metro de Caracas, CANTV,
+            Movistar, among many others. More recently, and taking advantage of
+            the pandemic, since early 2020, I'am began to formally train in the
+            dynamic technologies that make up the ecosystems of web development,
+            Artificial Intelligence (AI) and Data Science, becoming an
+            enthusiastic web developer, with a broad spirit of collaboration and
+            activity within the Spanish-speaking web community. I have acquired
+            strong skills in HTML, CSS, Javascript, Python, Go, React, Django,
+            Figma, Git, NodeJS, etc. 
 </p>
 
 <br>
