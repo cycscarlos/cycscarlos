@@ -13,14 +13,14 @@
 <p style="text-align:justify; font-size:10px">
             Electronic Engineer, 1981. I worked for
             more than 20 years as a software engineer in IBM Mainframe
-            technologies. During that period, among other functions, I was
-            Director of System Software of the Venezuelan subsidiary of Computer
-            Associates, Inc, an American corporation, based in the USA,
-            specialized in software development. I also provided consulting
-            services and technical support to more than 25 companies, including
-            12 banks, in the implementation of complex technical projects in the
-            areas of system programming and telecommunications. As part of my
-            constant evolution process, and during the last 22 years, I
+            technologies, providing consulting ervices and technical
+            support to more than 25 companies, including 12 banks,
+            in the implementation of complex technical projects (system
+            programming and telecommunications areas). During that period,
+            among other functions, I also was Director of System Software of the
+            Venezuelan subsidiary of Computer Associates, Inc, an American
+            corporation, based in the USA, specialized in software development.
+            As part of my constant evolution process, and during the last 22 years, I
             developed a successful career as a project engineer, in the areas of
             electronic security systems and telecommunications, implementing
             numerous projects in more than 30 corporate companies; some of the
