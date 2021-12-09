@@ -13,7 +13,7 @@
 <p style="text-align:justify; font-size:10px">
             Electronic Engineer, 1981. I worked for
             more than 20 years as a software engineer in IBM Mainframe
-            technologies, providing consulting ervices and technical
+            technologies, providing consulting services and technical
             support to more than 25 companies, including 12 banks,
             in the implementation of complex technical projects (system
             programming and telecommunications areas). During that period,
