@@ -42,13 +42,13 @@
 <br>
 
 - 🔭 I’m currently working on [CYCS & Co.](https://cycs.netlify.app "CYCS Ingeniería e Instalaciones") as CTO (co-founder)
-- 🌱 I’m currently learning IA & Machine Learning
+- 🌱 I’m currently learning IA, Machine Learning & Blockchain technologies
 - 👯 I’m collaborate on new side projects
-- 👯 And, also I'd like to collaborate on Google advocator developers program
-- 💬 Ask me about web software development (Python, JavaScript, React, VueJS, HTML and/or CSS)
+- 💬 Ask me about web software development (HTML, CSS, JavaScript, React, or Python)
 - 📫 How to reach me: [Carlos Colmenares A. Profile](https://carlos-colmenares-a.netlify.app "https://carlos-colmenares-a.netlify.app")
+- 👯 I'd like to collaborate on Google advocator developers program
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm baseball and Basketball fan, and rock & roll music lover too!
+- ⚡ Fun fact: I'm baseball and Boxing fan, and of course, Rock & Roll and Salsa music lover too!
 
 <br>
 
