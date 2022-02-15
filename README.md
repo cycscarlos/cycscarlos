@@ -11,7 +11,8 @@
 <br>
 
 <p style="text-align:justify; font-size:10px">
-            Electronic Engineer, 1981. I worked for
+Software engineer in IBM Mainframe technologies; he worked for more than 20 years in the implementation of complex technical projects in the areas of system programming and telecommunications, and also as a consultant, during which time he provided consulting services to more than 25 corporate companies, including 12 banks. Also, during this period, and among other functions, he was director of system software for Computer Associates, Inc. (an American company based in the U.S., specialized in the development of software for IBM Mainframe technologies), through its subsidiary in Venezuela. As part of his constant evolution process, and during the last 22 years, he has also developed a successful career as a project engineer, in the areas of telecommunications and electronic security systems, implementing numerous projects in more than 30 corporate companies; some of the likes of PDVSA, Cargill de Venezuela, Metro de Caracas, CANTV, Movistar, among many others. More recently (since early 2020), and due to the isolation by pandemic (Covid-19), he began to train in the technologies that make up the dynamic web ecosystem, becoming an enthusiastic web developer. Likewise, and through technology-oriented social networks, he supports the Spanish-speaking developer community in the transfer of new knowledge acquired and in the resolution of specific problems, which include: HTML, CSS, Javascript, React, Node, Express, MySQL, MongoDB, Figma, Git, etc.
+            <!-- Electronic Engineer, 1981. I worked for
             more than 20 years as a software engineer in IBM Mainframe
             technologies, providing consulting services and technical
             support to more than 25 companies, including 12 banks,
@@ -32,7 +33,7 @@
             enthusiastic web developer, with a broad spirit of collaboration and
             activity within the Spanish-speaking web community. I have acquired
             strong skills in HTML, CSS, Javascript, Python, Go, React, Django,
-            Figma, Git, NodeJS, etc. 
+            Figma, Git, NodeJS, etc.  -->
 </p>
 
 <br>
