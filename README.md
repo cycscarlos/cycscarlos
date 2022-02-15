@@ -11,29 +11,7 @@
 <br>
 
 <p style="text-align:justify; font-size:10px">
-Software engineer in IBM Mainframe technologies; he worked for more than 20 years in the implementation of complex technical projects in the areas of system programming and telecommunications, and also as a consultant, during which time he provided consulting services to more than 25 corporate companies, including 12 banks. Also, during this period, and among other functions, he was director of system software for Computer Associates, Inc. (an American company based in the U.S., specialized in the development of software for IBM Mainframe technologies), through its subsidiary in Venezuela. As part of his constant evolution process, and during the last 22 years, he has also developed a successful career as a project engineer, in the areas of telecommunications and electronic security systems, implementing numerous projects in more than 30 corporate companies; some of the likes of PDVSA, Cargill de Venezuela, Metro de Caracas, CANTV, Movistar, among many others. More recently (since early 2020), and due to the isolation by pandemic (Covid-19), he began to train in the technologies that make up the dynamic web ecosystem, becoming an enthusiastic web developer. Likewise, and through technology-oriented social networks, he supports the Spanish-speaking developer community in the transfer of new knowledge acquired and in the resolution of specific problems, which include: HTML, CSS, Javascript, React, Node, Express, MySQL, MongoDB, Figma, Git, etc.
-            <!-- Electronic Engineer, 1981. I worked for
-            more than 20 years as a software engineer in IBM Mainframe
-            technologies, providing consulting services and technical
-            support to more than 25 companies, including 12 banks,
-            in the implementation of complex technical projects (system
-            programming and telecommunications areas). During that period,
-            among other functions, I also was Director of System Software of the
-            Venezuelan subsidiary of Computer Associates, Inc, an American
-            corporation, based in the USA, specialized in software development.
-            As part of my constant evolution process, and during the last 22 years, I
-            developed a successful career as a project engineer, in the areas of
-            electronic security systems and telecommunications, implementing
-            numerous projects in more than 30 corporate companies; some of the
-            likes of PDVSA, Cargill de Venezuela, Metro de Caracas, CANTV,
-            Movistar, among many others. More recently, and taking advantage of
-            the pandemic, since early 2020, I'am began to formally train in the
-            dynamic technologies that make up the ecosystems of web development,
-            Artificial Intelligence (AI) and Data Science, becoming an
-            enthusiastic web developer, with a broad spirit of collaboration and
-            activity within the Spanish-speaking web community. I have acquired
-            strong skills in HTML, CSS, Javascript, Python, Go, React, Django,
-            Figma, Git, NodeJS, etc.  -->
+Software engineer in IBM Mainframe technologies; worked for more than 20 years in the implementation of complex technical projects in the areas of system programming and telecommunications, and also as a consultant, during which time he provided consulting services to more than 25 corporate companies, including 12 banks. Also, during this period, he was director of system software (in Venezuela) of Computer Associates, Inc. (a U.S. company based in the U.S., specialized in software development for IBM Mainframe technologies). As part of his constant evolution process, and during the last 22 years, he has also developed a successful career as a project engineer, in the areas of telecommunications and electronic security systems, implementing numerous projects in more than 30 corporate companies; some of the likes of PDVSA, Cargill de Venezuela, Metro de Caracas, CANTV, Movistar, among many others. More recently (since early 2020), and due to the pandemic isolation (covid-19), he began to train in the technologies that make up the dynamic web ecosystem, becoming a solid and enthusiastic web developer. Likewise, and through technology-oriented social networks, he supports the Spanish-speaking developer community in the transfer of new knowledge acquired and in the resolution of specific problems, which include: HTML, CSS, Javascript, React, Node, Express, MySQL, MongoDB, Figma, Git, etc.
 </p>
 
 <br>
