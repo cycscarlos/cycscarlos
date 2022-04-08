@@ -11,9 +11,8 @@
 <br>
 
 <p style="text-align:justify; font-size:16px">
-<!-- Software engineer in IBM Mainframe technologies; worked for more than 20 years in the implementation of complex technical projects in the areas of system programming and telecommunications, and also as a consultant, during which time he provided consulting services to more than 25 corporate companies, including 12 banks. Also, during this period, he was director of system software (in Venezuela) of Computer Associates, Inc. (a U.S. company based in the U.S., specialized in software development for IBM Mainframe technologies). As part of his constant evolution process, and during the last 22 years, he has also developed a successful career as a project engineer, in the areas of telecommunications and electronic security systems, implementing numerous projects in more than 30 corporate companies; some of the likes of PDVSA, Cargill de Venezuela, Metro de Caracas, CANTV, Movistar, among many others. More recently (since early 2020), and due to the pandemic isolation (covid-19), he began to train in the technologies that make up the dynamic web ecosystem, becoming a solid and enthusiastic web developer. Likewise, and through technology-oriented social networks, he supports the Spanish-speaking developer community in the transfer of new knowledge acquired and in the resolution of specific problems, which include: HTML, CSS, Javascript, React, Node, Express, MySQL, MongoDB, Figma, Git, etc. -->
 
-         ### "He worked for more than 20 years as a software engineer in IBMMainframe technologies;
+            "He worked for more than 20 years as a software engineer in IBMMainframe technologies;
              implementing high technical level projects in more than 25 corporate companies; including
              12 national banks and one abroad. Subsequently, he developed a successful career as a
              project engineer, in the areas of telecommunications (academic specialization) and
