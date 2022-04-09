@@ -12,7 +12,7 @@
 
 <p style="text-align:justify; font-size:16px">
 
-            "He worked for more than 20 years as a software engineer in IBMMainframe technologies;
+            "He worked for more than 20 years as a software engineer in IBM Mainframe technologies;
              implementing high technical level projects in more than 25 corporate companies; including
              12 national banks and one abroad. Subsequently, he developed a successful career as a
              project engineer, in the areas of telecommunications (academic specialization) and
