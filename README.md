@@ -15,11 +15,11 @@
             "I worked for more than 20 years as a software engineer in IBM Mainframe technologies;
              implementing high technical level projects in more than 25 corporate companies; including
              12 national banks and one abroad. Subsequently, I developed a successful career as a
-             project engineer, in the areas of telecommunications (academic specialization) and
+             project engineer, in the areas of telecommunications (my academic specialization) and
              electronic security systems; implementing lots of projects in more than 30 industries
-             and corporate companies, some of the likes of Venezuela, Metro de Caracas, CANTV, Movistar,
-             among many others. At parallel, I also developed a successful career as a web developer,
-             developing software for web, mobile and servers applications"
+             and corporate companies, some of the likes of Cargill Venezuela, PDVSA, Metro de Caracas,
+             CANTV, Movistar, among many others. At parallel (early 2020), I also developed a successful
+             career as a web developer, developing software for web, mobile and servers applications"
 
 </p>
 
