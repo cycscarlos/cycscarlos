@@ -18,8 +18,9 @@
              project engineer, in the areas of telecommunications (my academic specialization) and
              electronic security systems; implementing lots of projects in more than 30 industries
              and corporate companies, some of the likes of Cargill Venezuela, PDVSA, Metro de Caracas,
-             CANTV, Movistar, among many others. At parallel (early 2020), I also developed a successful
-             career as a web developer, developing software for web, mobile and servers applications"
+             CANTV, Movistar, among many others. At parallel (since early 2020), I also developed a 
+             successful career as a web developer, developing software for web, mobile and servers
+             applications"
 
 </p>
 
