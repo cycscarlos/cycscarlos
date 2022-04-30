@@ -12,14 +12,13 @@
 
 <p style="text-align:justify; font-size:16px">
 
-            "He worked for more than 25 years as a software engineer in IBM Mainframe technologies;
-             implementing high technical level projects in more than 25 corporate companies; including
-             12 national banks and one abroad. Subsequently, he developed a successful career as a
-             project engineer, in the areas of telecommunications (academic specialization) and
-             electronic security systems; implementing lots of projects in more than 30 industries
-             and corporate companies, some of the likes of Venezuela, Metro de Caracas, CANTV, Movistar,
-             among many others. At parallel, as a web developer, he develops software for web, mobile
-             Apps and servers"
+            "I'm a Software Developer and a lover of technology. Electronics enginner, 1981.
+             I worked for more than 25 years as a software engineer in IBM Mainframe technologies.
+             In paralell to above work experience, I developed a successful career as a project
+             engineer, in the areas of telecommunications (my academic major) and electronic
+             security systems; implementing a lot of projects in more than 30 industries and
+             corporate companies. At parallel, as a web developer, I develops software for
+             web, mobile, and servers"
 
 </p>
 
