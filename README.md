@@ -10,19 +10,20 @@
 
 <br>
 
-<p style="text-align:justify; font-size:16px">
+<p style="text-align:justify; font-size:18px">
 
-              "I'm Carlos, a software engineer, and web developer with an
-              electronics engineering degree. We are always on time to reinvent
-              ourselves. My goal is to inspire you and help follow your dreams.
-              Long time ago, I was an IBM software engineer, project engineer,
-              and also, co-founded two tech start-ups; but since early 2020-year,
-              as enthusiat and passionate by coding, I have been developing
-              websites, and apps systems for smartphones, and servers platforms.
+              "I'm Carlos, a software engineer, and web developer with an electronics
+              engineering degree. We are always on time to reinvent ourselves. My goal
+              is to inspire you and help follow your dreams. Long time ago, I was an
+              IBM software engineer, project engineer, and also, co-founded two tech
+              start-ups; but since early 2020-year, as enthusiat and passionate by coding,
+              I have been developing websites, and apps systems for smartphones, and servers
+              platforms.
+
               My complete CV can be seen in the following link:
-              [Online CV](https://carlos-colmenares-a.netlify.app)"
 
 </p>
+![zCoder Online CV!](https://carlos-colmenares-a.netlify.app)
 
 <br>
 
