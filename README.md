@@ -12,11 +12,12 @@
 
 <p style="text-align:justify; font-size:18px">
 
-              "I'm Carlos. We are always on time to reinvent ourselves. My goal is to inspire you and
-              help follow your dreams. Long time ago, I was an IBM Mainframe system's software specialist,
-              and later, telecommunication deployments project manager, and in the process, also co-founded
-              two tech start-ups; now and since early 2020-year, as enthusiat and passionate by coding,
-              I have been developing websites, and apps systems for smartphones, and servers platforms."
+              "I'm Carlos (zCoder!). We are always on time to reinvent ourselves. My goal is to inspire you
+              and help follow your dreams. Long time ago, I was an IBM Mainframe system programmer (over 25
+              years), and later, microwave telecommunication network fied-deployments project specialist
+              (over 20 years); In the process, also co-founded two tech start-ups. since 2020-year, as
+              enthusiat and passionate by coding, I have been developing websites, smartphone apps, and
+              systems for server platform."
 
               My complete CV can be seen in the following link:
 
