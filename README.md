@@ -54,8 +54,8 @@
 
 <br>
 
-## My Colaborations
+<!-- ## My Colaborations -->
 
-[![Carlos Colmenares A.'s github activity graph](https://activity-graph.herokuapp.com/graph?username=cycscarlos&theme=react-dark)](https://github.com/cycscarlos/github-readme-activity-graph)
+<!-- [![Carlos Colmenares A.'s github activity graph](https://activity-graph.herokuapp.com/graph?username=cycscarlos&theme=react-dark)](https://github.com/cycscarlos/github-readme-activity-graph) -->
 
 <br>
