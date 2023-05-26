@@ -12,11 +12,12 @@
 
 <p style="text-align:justify; font-size:18px">
 
-              "Carlos Colmenares A is who I am. I've always been a software engineer,
-              despite being an electronic engineer. We are constantly prepared to remake
-              ourselves. I want to motivate you and encourage you to pursue your aspirations.
-              I worked with IBM for nearly 25 years as a mainframe system programmer, and then
-              for another 20 years as a microwave telecommunication network project specialist.
+              "Carlos Colmenares A is who I am. I've always been a software engineer, despite
+              being an electronic engineer. We are constantly prepared to remake ourselves. I
+              want to motivate you and encourage you to pursue your aspirations. I worked with
+              IBM for nearly 25 years as a mainframe system programmer, and then for another 20
+              years as a microwave telecommunication network project specialist.
+              
               I also co-founded two tech start-ups during that time. I have provided consulting
               services for the creation of highly technical IT projects for more than forty (40)
               domestic and international businesses. I've been creating websites, mobile apps,
