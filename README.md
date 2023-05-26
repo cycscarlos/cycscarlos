@@ -12,11 +12,16 @@
 
 <p style="text-align:justify; font-size:18px">
 
-              "I'm Carlos Colmenares A. Although I'm an electronic engineer, I've always worked as
-              a software engineer. We are always on time to reinvent ourselves. My goal is to inspire
-              you and help follow your dreams. Long time ago, I was an IBM Mainframe system programmer
-              (over 25 years), and later, microwave telecommunication network project specialist (over
-              other 20 years); In the process, also co-founded two tech start-ups. I have been a consultant for the development of highly technical IT projects in more than forty (40) national and foreign corporations. Since 2020-year, as enthusiat and passionate by coding, I have been developing websites, smartphone apps, and systems for server platform."
+              "Carlos Colmenares A is who I am. I've always been a software engineer,
+              despite being an electronic engineer. We are constantly prepared to remake
+              ourselves. I want to motivate you and encourage you to pursue your aspirations.
+              I worked with IBM for nearly 25 years as a mainframe system programmer, and then
+              for another 20 years as a microwave telecommunication network project specialist.
+              I also co-founded two tech start-ups during that time. I have provided consulting
+              services for the creation of highly technical IT projects for more than forty (40)
+              domestic and international businesses. I've been creating websites, mobile apps,
+              and server platform systems since 2020, when I first became enthusiastic and
+              passionate about coding."
 
 
               My complete CV can be seen in the following link:
