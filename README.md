@@ -6,18 +6,14 @@
 
 <br>
 
-### <div style="text-align:center"><h3>...also knows as<span style="color:#ff4c00"> _zCoder!_ </span>at developers social media</div>
+### <div style="text-align:center"><h3>...also knows as<span style="color:#ff4c00"> _zCoder!_ </span>at social media</div>
 
 <br>
 
 <p style="text-align:justify; font-size:18px">
 
-              "I'm Carlos (zCoder!). We are always on time to reinvent ourselves. My goal is to inspire you
-              and help follow your dreams. Long time ago, I was an IBM Mainframe system programmer (over 25
-              years), and later, microwave telecommunication network fied-deployments project specialist
-              (over 20 years); In the process, also co-founded two tech start-ups. since 2020-year, as
-              enthusiat and passionate by coding, I have been developing websites, smartphone apps, and
-              systems for server platform."
+
+              "Carlos Colmenares A here. I've always worked as a software engineer even though I'm an electronic engineer. We constantly recreate ourselves on time. I want to encourage you to pursue your aspirations. I worked as a microwave communications network project specialist for almost 20 years after spending over 25 years as an IBM Mainframe system programmer. I also co-founded two tech start-ups during this time. In more than forty (40) domestic and international corporations, I have provided consulting services for the creation of highly technical IT projects. I've been creating websites, mobile apps, and server platform systems since the year 2020 because I love to code."
 
               My complete CV can be seen in the following link:
 
