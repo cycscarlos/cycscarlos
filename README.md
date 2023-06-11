@@ -14,15 +14,16 @@
 
               "I've always been a software engineer, despite being an electronic engineer.
               We are constantly prepared to remake ourselves. I want to motivate you and
-              encourage you to pursue your aspirations. I worked with IBM for nearly 25
-              years as a mainframe system programmer, and then for another 20 years as a
-              microwave telecommunication network project specialist.
+              encourage you to pursue your aspirations. I worked with IBM technologies for
+              nearly 25 years as a mainframe system programmer, and then for another 20 
+              years as amicrowave telecommunication network, and security systems project
+              specialist.
               
               I also co-founded two tech start-ups during that time. I have provided
-              consulting services for the creation of highly technical IT projects for
-              more than 40 domestic and international businesses. I've been creating
+              consulting services for the implementation of highly technical IT projects 
+              for more than 40 domestic and international businesses. I've been creating
               websites, mobile apps, and server platform systems since 2020, when I first
-              became enthusiastic and passionate about coding."
+              became enthusiastic and passionate about web coding."
 
 
               My complete CV can be seen in the following link:
@@ -37,7 +38,7 @@
 <br>
 
 - 🔭 I’m currently working on [CYCS & Co.](https://cycs.netlify.app "CYCS Ingeniería e Instalaciones") as CTO (co-founder)
-- 🌱 I’m currently learning IA, Machine Learning & Blockchain technologies
+- 🌱 I’m currently learning IA, and Machine Learning technologies
 - 👯 I’m collaborate on new side projects
 - 💬 Ask me about web software development (HTML, CSS, JavaScript, React, or Python)
 - 📫 How to reach me: [Carlos Colmenares A. Profile](https://carlos-colmenares-a.netlify.app "https://carlos-colmenares-a.netlify.app")
