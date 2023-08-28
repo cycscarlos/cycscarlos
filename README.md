@@ -14,19 +14,19 @@
 
                 "We are constantly prepared to remake ourselves. I want to motivate you and
                 encourage you to pursue your aspirations.
-                
+
                 I have been hired by more than 40 large companies and corporations to advise
                 and support them in the development and implementation of complex technical
                 projects in the IT field.
-                
+
                 I worked for over 25 years as a system programmer and IBM mainframe technology specialist. After that phase ended, I specialized in the areas of microwave
                 telecommunications and electronic security systems, a field in which I have been
                 working for over 20 years, developing important and complex projects.
-                
+
                 Throughout my professional career, I founded two successful startups, each
                 dedicated and specialized in providing services for the technologies for which
                 they were created.
-                
+
                 Finally, and as a complement to my vocation as a software developer, in
                 my free time, I develop websites and applications for desktop computers,
                 servers, and smartphones"
