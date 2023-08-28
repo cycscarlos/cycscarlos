@@ -12,20 +12,16 @@
 
 <p style="text-align:justify; font-size:18px">
 
-              "I've always been a ¡Software Developer!
-
-              We are constantly prepared to remake ourselves. I want to motivate you and
+              "We are constantly prepared to remake ourselves. I want to motivate you and
               encourage you to pursue your aspirations.
               
-              I worked with IBM technologies for nearly 25 years as a mainframe system
-              programmer, and then for another 20 years as amicrowave telecommunication
-              network, and security systems project specialist.
+              Throughout my career, I have been hired by more than 40 large companies and corporations to advise and support them in the development and implementation of complex technical projects in the IT field.
 
-              I also co-founded two tech start-ups during that time. I have provided
-              consulting services for the implementation of highly technical IT projects
-              for more than 40 domestic and international businesses. I've been creating
-              websites, mobile apps, and server platform systems since 2020, when I first
-              became enthusiastic and passionate about web coding"
+              I worked for over 25 years as a system programmer and IBM mainframe technology specialist. After that phase ended, I specialized in the areas of microwave telecommunications and electronic security systems, a field in which I have been working for over 20 years, developing important and complex projects.
+
+              Throughout my professional career, I founded two successful startups, each dedicated and specialized in providing services for the technologies for which they were created.
+              
+              Finally, and as a complement to my vocation as a software developer, in my free time, I develop websites and applications for desktop computers, servers, and smartphones"
 
 
               My complete CV can be seen in the following link:
