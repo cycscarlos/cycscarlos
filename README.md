@@ -6,7 +6,7 @@
 
 <br>
 
-### <div style="text-align:center"><h3>...also knows as<span style="color:#ff4c00"> _zCoder!_ </span>at social media</div>
+## <div style="text-align:center"><h3>...also knows as<span style="color:#ff4c00"> _zCoder!_ </span>at social media</div>
 
 <br>
 
@@ -32,7 +32,7 @@
             my free time, I develop websites and applications for desktop computers,
             servers, and smartphones"
 
-              My complete CV can be seen in the following link:
+              My complete portfolios can be seen at the following links:
 
 </p>
 <!-- ![zCoder Online CV!](https://carlos-colmenares-a.netlify.app) -->
