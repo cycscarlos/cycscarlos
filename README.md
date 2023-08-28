@@ -35,7 +35,7 @@
               My complete CV can be seen in the following link:
 
 </p>
-![zCoder Online CV!](https://carlos-colmenares-a.netlify.app)
+<!-- ![zCoder Online CV!](https://carlos-colmenares-a.netlify.app) -->
 
 <br>
 
