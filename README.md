@@ -16,21 +16,23 @@
             encourage you to pursue your aspirations.
 
             I have been hired by more than 40 large companies and corporations to advise
-            and support them in the development and implementation of complex technical
-            projects in the IT field.
+            and support them in developing and implementing complex technical projects in
+            the IT field.
 
             I worked for over 25 years as a system programmer and IBM mainframe technology
-            specialist. After that phase ended, I specialized in the areas of microwave
-            telecommunications and electronic security systems, a field in which I have been
-            working for over 20 years, developing important and complex projects.
+            specialist. After that phase ended, I specialized in microwave telecommunications
+            and electronic security systems, a field in which I have been working for over 20
+            years, developing essentials and large projects.
 
             Throughout my professional career, I founded two successful startups, each
             dedicated and specialized in providing services for the technologies for which
             they were created.
 
-            Finally, and as a complement to my vocation as a software developer, in
-            my free time, I develop websites and applications for desktop computers,
-            servers, and smartphones"
+            Finally, and as a complement to my vocation as a software developer, in my free
+            time, I develop websites and applications for desktop computers, servers, and
+            smartphones. This passion requires me to stay updated on new technologies and
+            trends within the web software development ecosystem such as Python, Javascript,
+            HTML, CSS, NodeJS, MySQL, MongoDB, APIs, Artificial Intelligence, etc."
 
               My complete portfolios can be seen at the following links:
 
