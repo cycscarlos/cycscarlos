@@ -12,10 +12,7 @@
 
 <p style="text-align:justify; font-size:18px">
 
-            "We are constantly prepared to remake ourselves. I want to motivate you and
-            encourage you to pursue your aspirations.
-
-            I have been hired by more than 40 large companies and corporations to advise
+            "I have been hired by more than 40 large companies and corporations to advise
             and support them in developing and implementing complex technical projects in
             the IT field.
 
@@ -24,17 +21,12 @@
             and electronic security systems, a field in which I have been working for over 20
             years, developing essentials and large projects.
 
-            Throughout my professional career, I founded two successful startups, each
-            dedicated and specialized in providing services for the technologies for which
-            they were created.
-
-            Finally, and as a complement to my vocation as a software developer, in my free
+            As a complement to my vocation as a software developer, in my free
             time, I develop websites and applications for desktop computers, servers, and
             smartphones. This passion requires me to stay updated on new technologies and
-            trends within the web software development ecosystem such as Python, Javascript,
-            HTML, CSS, NodeJS, MySQL, MongoDB, APIs, Artificial Intelligence, etc."
+            trends within the web software development ecosystem."
 
-              My complete portfolios can be seen at the following links:
+            My complete portfolios can be seen at the following links:
 
 </p>
 <!-- ![zCoder Online CV!](https://carlos-colmenares-a.netlify.app) -->
