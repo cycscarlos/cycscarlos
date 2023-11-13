@@ -14,8 +14,8 @@
 
             "I have been hired by more than 40 companies and corporations to give them
             support and consulting in developing and implementing of complex technical
-            projects in the computing sciences, networking,and electronics security systems
-            areas.
+            projects in the computing sciences, networking, and electronics security systems
+            engineering areas.
 
             I worked for over 25 years as a system programmer, and specialist for IBM's
             mainframe computers technologies. After that phase ended, I specialized in
@@ -30,7 +30,7 @@
             My complete portfolios can be seen at the following links:
 
 </p>
-![zCoder Online CV!](https://carlos-colmenares-a.netlify.app)
+¡Online Profile!... (https://zCoder.netlify.app)
 
 <br>
 
