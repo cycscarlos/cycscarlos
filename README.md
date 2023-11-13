@@ -18,16 +18,15 @@
             engineering areas.
 
             I worked for over 25 years as a system programmer, and specialist for IBM's
-            mainframe computers technologies. After that phase ended, I specialized in
+            mainframe computer technologies. After that phase ended, I specialized in
             microwave telecommunications and electronic security systems, a field in which
             I have been working for over 20 years, developing important and complex projects.
 
-            As a complement to my vocation as a software developer, in my free time, I develop
-            websites and applications for desktop computers, and smartphones. This passion requires
-            me to stay updated on new technologies and trends within the web software development
-            ecosystem."
+            As a software developer, in my free time, I develop websites and applications for
+            desktop computers and smartphones. This passion requires me to stay updated on new
+            technologies and trends within the web software development ecosystem."
 
-            My complete portfolios can be seen at the following links:
+            My complete portfolios can be see at the following links:
 
 </p>
 ¡Online Profile!... (https://zCoder.netlify.app)
