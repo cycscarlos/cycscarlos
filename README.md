@@ -12,24 +12,25 @@
 
 <p style="text-align:justify; font-size:18px">
 
-            "I have been hired by more than 40 large companies and corporations to advise
-            and support them in developing and implementing complex technical projects in
-            the IT field.
+            "I have been hired by more than 40 companies and corporations to give them
+            support and consulting in developing and implementing of complex technical
+            projects in the computing sciences, networking,and electronics security systems
+            areas.
 
-            I worked for over 25 years as a system programmer and IBM mainframe technology
-            specialist. After that phase ended, I specialized in microwave telecommunications
-            and electronic security systems, a field in which I have been working for over 20
-            years, developing essentials and large projects.
+            I worked for over 25 years as a system programmer, and specialist for IBM's
+            mainframe computers technologies. After that phase ended, I specialized in
+            microwave telecommunications and electronic security systems, a field in which
+            I have been working for over 20 years, developing important and complex projects.
 
-            As a complement to my vocation as a software developer, in my free
-            time, I develop websites and applications for desktop computers, servers, and
-            smartphones. This passion requires me to stay updated on new technologies and
-            trends within the web software development ecosystem."
+            As a complement to my vocation as a software developer, in my free time, I develop
+            websites and applications for desktop computers, and smartphones. This passion requires
+            me to stay updated on new technologies and trends within the web software development
+            ecosystem."
 
             My complete portfolios can be seen at the following links:
 
 </p>
-<!-- ![zCoder Online CV!](https://carlos-colmenares-a.netlify.app) -->
+![zCoder Online CV!](https://carlos-colmenares-a.netlify.app)
 
 <br>
 
@@ -63,6 +64,6 @@
 
 <!-- ## My Colaborations -->
 
-<!-- [![Carlos Colmenares A.'s github activity graph](https://activity-graph.herokuapp.com/graph?username=cycscarlos&theme=react-dark)](https://github.com/cycscarlos/github-readme-activity-graph) -->
+[![Carlos Colmenares A.'s github activity graph](https://activity-graph.herokuapp.com/graph?username=cycscarlos&theme=react-dark)](https://github.com/cycscarlos/github-readme-activity-graph)
 
 <br>
