@@ -14,13 +14,12 @@
 
             IBM-Mainframe technologies, software engineering, and AI-Data science specialist.
 
-            I worked for over +25 years as a system programmer, and specialist for IBM's
-            mainframe technologies.. Later, I specialized in microwave telecommunications
-            networks, and electronic security systems, a field in which I have been working
-            for over 20 years developing important and complex projects.
+            I worked for over +25 years as a system programmer, and specialist for IBM's mainframe technologies.. Later, I specialized in microwave telecommunications networks, and
+            electronic security systems, a field in which I have been working for over 20 years
+            developing important and complex projects.
 
-            I have been hired by dozens of companies and corporations to give them support
-            and consulting in the implementing of complex technical projects in the computing,
+            I have been hired by dozens of companies and corporations to give them support and
+            consulting in the implementing of complex technical projects in the computing,
             networking, and electronics security systems areas.
 
             As enthusiastic fullstack software programmer, I develop professional websites and
