@@ -13,18 +13,19 @@
 <p style="text-align:justify; font-size:24px">
 
             IBM-Mainframe technologies, software engineering, and AI-Data science specialist.
-            I worked for over +25 years as a system programmer, and specialist for IBM's mainframe technologies.. Later, I specialized in microwave telecommunications networks, and
-            electronic security systems, a field in which I have been working for over 20 years,
-            developing important and complex projects.
 
-            I have been hired by dozens of companies and corporations to give them support and
-            consulting in the implementing of complex technical projects in the computing, networking,
-            and electronics security systems areas.
+            I worked for over +25 years as a system programmer, and specialist for IBM's mainframe <br> technologies.. Later, I specialized in microwave telecommunications networks, and <br>
+            electronic security systems, a field in which I have been working for over 20 years,<br>
+            developing important and complex projects.<br> <br>
 
-            As enthusiastic fullstack software programmer, I develop professional websites and apps
-            for desktop and smartphones. This passion requires me to stay updated on new technologies
-            and trends within the web's software development ecosystem. My preferred software development stack is;  for the IBM-Mainframes: Assembler, Cobol, VSAM, CICS, VTAM & NCP | for the web:
-            HTML, CSS, Javascript, Pyton, NodeJS, ExpressJS, MySQL...
+            I have been hired by dozens of companies and corporations to give them support and <br>
+            consulting in the implementing of complex technical projects in the computing, networking,<br>
+            and electronics security systems areas.<br><br>
+
+            As enthusiastic fullstack software programmer, I develop professional websites and apps<br>
+            for desktop and smartphones. This passion requires me to stay updated on new technologies<br>
+            and trends within the web's software development ecosystem. My preferred software development<br> stack is;  for the IBM-Mainframes: Assembler, Cobol, VSAM, CICS, VTAM & NCP | for the web:<br>
+            HTML, CSS, Javascript, Pyton, NodeJS, ExpressJS, MySQL...<br><br>
 
             Click on the following link to see my portfolio:
 
