@@ -31,7 +31,7 @@
                 Cobol, VSAM, CICS, VTAM & NCP | for the web: HTML, CSS, Javascript, Pyton, NodeJS,
                 ExpressJS, MySQL...
 
-                Click on the following link to see my portfolio:
+                Click on the below links to see my portfolios:
 
 </p>
 
